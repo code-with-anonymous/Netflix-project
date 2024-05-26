@@ -1,0 +1,307 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 115vh;
+    width: 100%;
+    background-image: url(asset/Images/main.jpg);
+    background-size: cover;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7), url(asset/Images/main.jpg));
+    border-bottom: 12px solid rgb(35, 35, 35);
+    opacity: ;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+}
+
+.logo {
+    font-weight: 500;
+    height: 40px;
+    width: 129px;
+    margin-top: 19px;
+    margin-left: 1.5rem;
+    z-index: 10;
+}
+
+.signup {
+    background-color: #db0001;
+    height: 40px;
+    width: 80px;
+    margin-top: 1.4rem;
+    margin-right: 1.5rem;
+    color: white;
+    z-index: 10;
+
+}
+
+.content {
+    margin-left: 30%;
+
+    color: white;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1.8rem;
+    width: 100%;
+    color: white;
+    margin-top: 14%;
+}
+
+.content h3 {
+    margin-top: 1.3rem;
+    margin-bottom: 1.3rem;
+    font-size: 1.6em;
+}
+
+.content p {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.apply {
+    height: 52px;
+    width: 360px;
+    background-color: rgba(0, 0, 0, 0.728);
+    color: rgb(245, 245, 245);
+
+}
+
+.btn {
+    height: 58px;
+    width: 180px;
+    background-color: #db0001;
+    color: white;
+    font-size: 1.4rem;
+    padding-bottom: 9px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    width: 100%;
+    height: 60vh;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.986);
+    border-bottom: 12px solid rgb(35, 35, 35);
+}
+
+img {
+    position: relative;
+}
+
+video {
+    position: absolute;
+    /* z-index: 10; */
+    right: 10;
+    
+}
+
+.box1 {
+    margin-left: 50px;
+}
+
+.box1 h1 {
+    margin: 55px;
+    margin-bottom: 17px;
+    font-size: 50px;
+    font-weight: 900;
+    <style>@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+    </style>
+}
+
+.box1 h3 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.TV {
+    height: 50vh;
+    margin-left: 200px;
+
+}
+
+
+.container-1 {
+    display: flex;
+    color: white;
+    width: 100%;
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.986);
+    border-bottom: 12px solid rgb(35, 35, 35);
+}
+
+.mobile {
+    height: 60vh;
+    margin-top: 18px;
+    margin-right: 73px;
+}
+
+.box2 h1 {
+    margin: 40px;
+    margin-bottom: 17px;
+    font-size: 58px;
+    font-weight: 900;
+    margin-right: 39px;
+}
+
+.box2 h3 {
+    font-size: 33px;
+    font-weight: 500;
+    padding-left: 39px;
+
+}
+
+
+
+.container-3 {
+    display: flex;
+    color: white;
+    width: 100%;
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.986);
+    border-bottom: 12px solid rgb(35, 35, 35);
+}
+
+.box3 {
+    margin-top: 70px;
+    margin-right: 30px;
+}
+
+.kidz {
+    height: 60vh;
+    margin-top: 18px;
+    margin-right: 73px;
+}
+
+.box3 h1 {
+    <style>@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+    </style>margin-bottom: 17px;
+    font-size: 58px;
+    font-weight: 900;
+    margin-right: 32px;
+
+}
+
+.box3 h3 {
+    margin-top: 14px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.978);
+    height: 35vh;
+    color: rgba(255, 255, 255, 0.696);
+    display: flex;
+    justify-content: space-around;
+}
+
+ul p {
+    margin-top: 10px;
+}
+
+.footer a {
+    display: block;
+    margin-bottom: 14px;
+
+}
+
+.footer-1 {
+    padding-top: 30px;
+}
+
+.footer-2 {
+    padding-top: 30px;
+}
+
+.footer-3 {
+    padding-top: 30px;
+}
+
+.footer-4 {
+    padding-top: 30px;
+}
+
+.footer-text {
+    height: 90px;
+    background-color: rgba(0, 0, 0, 0.978);
+    color: rgba(255, 255, 255, 0.696);
+    /* margin-left: 120px; */
+}
+
+.english {
+    background-color: rgba(0, 0, 0, 0.978);
+    color: white;
+    margin-left: 120px;
+    height: 32px;
+    width: 124px;
+    border: 3px solid white;
+    border-radius: 10%;
+}
+
+.foot {
+    margin-top: 20px;
+}
+
+.question {
+    height: 110vh;
+    background-color: rgba(0, 0, 0, 0.938);
+    color: white;
+    border-bottom: 12px solid rgb(35, 35, 35);
+
+}
+
+.heading {
+    padding-top: 70px;
+    font-size: 54px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    /* <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  </style> */
+
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-left: 24px;
+    height: 73px;
+    width: 93%;
+    color: white;
+    background-color: rgb(45, 45, 45);
+    border: 1px solid black;
+    margin-top: 10px;
+    font-size: 12px;
+
+}
+
+.ready {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+    /* color: white; */
+    height: 20px;
+    font-size: 23px;
+}
+
+.questionlast {
+    padding-left: 350px;
+
+}
