@@ -1,1 +1,1 @@
-**Netflix clonemade with html and Css Depiciting beauiful static website**
+ **Netflix clone made with html and Css Depiciting beauiful static website**
